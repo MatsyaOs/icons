@@ -1,6 +1,8 @@
 # Maintainer: Your Name <admin@matsyos.ml>
 pkgname=matsya-icons
 pkgdesc="System default icon theme of Matsya_Os"
+pkgver=1
+pkgrel=1
 arch=('any')
 url="https://github.com/matsyaos/icons"
 license=('GPL')
